@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "be783d0b-9c9d-4e30-aacd-3bf1aef9fdaf"
+      }
+    },
+    "owner": "axeltoure"
   }
 }
